@@ -6,3 +6,4 @@ test('renderiza el componente Componente2', () => {
   render(<Componente2 />);
   expect(screen.getByText(/Hola desde Componente2/i)).toBeInTheDocument();
 });
+
