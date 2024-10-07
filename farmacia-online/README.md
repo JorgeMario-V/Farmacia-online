@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+En este readme me base para poder crear el API. -Jorge Mario Velez Vasquez
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
